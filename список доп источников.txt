@@ -1,0 +1,62 @@
+Все рекомендации одним списком
+Head First Kotlin. A Brain-Friendly Guide — Dawn Griffiths, David Griffiths (рус. Head First. Kotlin — Дон и Дэвид Гриффитс)
+
+Head First Design Patterns — Eric Freeman, Elisabeth Robson, Kathy Sierra, Bert Bates (рус. Head First. Паттерны проектирования — Эрик Фримен, Элизабет Робсон, Кэти Сьерра, Берт Бейтс)
+
+Head First Git: A Learner's Guide to Understanding Git from the Inside Out — Raju Gandhi (рус. Head First. Git. Лучший способ понять Git изнутри — Ганди Раджу)
+
+Using Docker: Developing and Deploying Software with Containers — Adrian Mouat (рус. Использование Docker — Эдриен Моуэт)
+
+Docker in Action, Second Edition — Jeff Nickoloff, Stephen Kuenzli
+
+Container Security: Fundamental Technology Concepts that Protect Containerized Applications — Liz Rice (рус. Безопасность контейнеров. Фундаментальный подход к защите контейнеризированных приложений — Лиз Райс)
+
+Fundamentals of Software Architecture: An Engineering Approach — Mark Richards, Neal Ford (рус. Фундаментальный подход к программной архитектуре: паттерны, свойства, проверенные методы — Марк Ричардс, Нил Форд)
+
+Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures —  Neal Ford, Mark Richards, Pramod Sadalage, Zhamak Dehghani (рус. Современный подход к программной архитектуре: сложные компромиссы — Нил Форд, Марк Ричардс, Прамод Садаладж и Жамак Дехгани)
+
+Building Evolutionary Architectures: Automated Software Governance — Neal Ford, Rebecca Parsons, Patrick Kua, Pramod Sadalage (рус. Эволюционная архитектура. Автоматизированное управление программным обеспечением —- Нил Форд, Ребекка Парсонс, Патрик Куа и Прамод Садаладж)
+
+Head First Software Architecture: A Learner's Guide to Architectural Thinking — Raju Gandhi, Mark Richards, Neal Ford.
+
+Building Microservices: Designing Fine-Grained Systems — Sam Newman (рус. Создание микросервисов — Сэм Ньюмен)
+
+Monolith to Microservices: Evolutionary Patterns to Transform Your Monolith — Sam Newman (рус. От монолита к микросервисам. Эволюционные шаблоны для создания монолитной системы — Сэм Ньюмен)
+
+Microservices in Action — Morgan Bruce, Paulo A. Pereira
+
+Microservices Up and Running: A Step-by-step Guide to Building a Microservices Architecture — Ronnie Mitra, Irakli Nadareishvili (рус. Микросервисы. От архитектуры до релиза — Ронни Митра, Иракли Надареишвили)
+
+The DevOps Handbook: How to Create World-Class Agility, Reliability, & Security in Technology Organizations, Second Edition — Gene Kim, Patrick Debois, John Willis, Jez Humble (рус. Руководство по DevOps. Как добиться гибкости, надежности и безопасности мирового уровня в технологических компаниях — Джин Ким, Патрик Дебуа, Джон Уиллис, Джез Хамбл)
+
+Site Reliability Engineering: How Google Runs Production Systems — Jennifer Petoff, Betsy Beyer, Chris Jones, Niall Richard Murphy (рус. Site Reliability Engineering. Надежность и безотказность как в Google — Бетси Бейер, Крис Джоунс, Дженнифер Петофф, Нейл Ричард Мёрфи)
+
+The Site Reliability Workbook — Betsy Beyer, Niall Richard Murphy, David K. Rensin, Kent Kawahara, Stephen Thorne, 
+
+Seeking SRE: Conversations About Running Production Systems at Scale — David N. Blank-Edelman
+
+Database Reliability Engineering: Designing and Operating Resilient Database Systems — Laine Campbell, Charity Majors
+
+Enterprise Roadmap to SRE: How to Build and Sustain an SRE Function — James Brookbank, Steve McGhee 
+
+Building Secure and Reliable Systems: Best Practices for Designing, Implementing, and Maintaining Systems — Heather Adkins, Betsy Beyer, Paul Blankinship, Piotr Lewandowski, Ana Oprea, Adam Stubblefield (рус. Безопасные и надежные системы: Лучшие практики проектирования, внедрения и обслуживания как в Google — Хизер Аткинс, Бетси Бейер, Пол Бланкиншип, Петр Левандовски, Ана Опреа, Адам Стабблфилд)
+
+Grokking Continuous Delivery — Christie Wilson (рус. Грокаем Continuous Delivery — Кристи Уилсон)
+
+Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations — Nicole Forsgren, Jez Humble, Gene Kim (рус. Ускоряйся! Наука DevOps: Как создавать и масштабировать высокопроизводительные цифровые организации — Николь Форсгрен, Джез Хамбл, Джин Ким)
+
+Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation — Jez Humble, David Farley (рус. Непрерывное развертывание ПО. Автоматизация процессов сборки, тестирования и внедрения новых версий программ — Джез Хамбл, Дэвид Фарли)
+
+Continuous Deployment: Enable Faster Feedback, Safer Releases, and More Reliable Software — Valentina Servile
+
+Practical Monitoring. Effective Strategies For The Real World — Mike Julian
+
+Infrastructure as Code: Dynamic Systems for the Cloud Age — Kief Morris (рус. Программирование инфраструктуры. Как создаются адаптивные облачные системы — Киф Моррис)
+
+Team Topologies: Organizing Business and Technology Teams for Fast Flow — Manuel Pais, Matthew Skelton
+
+Пиши, сокращай — Максим Ильяхов
+
+Communication Patterns: A Guide for Developers and Architects — Jacqui Read
+
+The Engineering Leader: Strategies for Scaling Teams and Yourself — Cate Huston
